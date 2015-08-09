@@ -1,0 +1,1 @@
+Ce "projet" est un exercice applicatif de ce que je viens d'apprendre
